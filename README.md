@@ -11,8 +11,7 @@ This project was developed as a Major Project for the Bachelor of Technology in 
 * Shrubhi Yadav (0206EC201051)[cite: 1]
 
 **Under the guidance of:** Prof. Shailesh Khaparker[cite: 1]
-
-## 🛠️ Hardware Requirements
+🛠️ Hardware Requirements
 To build this robot, you will need the following components:
 
 | Component | Quantity | Role |
