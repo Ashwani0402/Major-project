@@ -4,7 +4,7 @@ A two-wheeled, self-balancing robot built using an Arduino Nano, MPU-6050, and L
 
 This project was developed as a Major Project for the Bachelor of Technology in Electronics & Communication Engineering at Gyan Ganga Institute of Technology & Science[cite: 1].
 
-## 👥 Team
+ 👥 Team
 * Ashwani Rai (0206EC201012)[cite: 1]
 * Ayushi Shukla (0206EC201014)[cite: 1]
 * Manas Tiwari (0206EC201025)[cite: 1]
